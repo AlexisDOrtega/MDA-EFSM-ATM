@@ -1,3 +1,8 @@
+About the Project - Software Architecture -ATM Machine (individual)	Java, UML
+					
+I Implemented these designs with Object Oriented Programming principals to provide an abstracted User Interface which allowed a customer to login, withdraw, deposit, check balance, and logout. I designed and documented an ATM Machine using multiple architectural patterns including MDA-EFSM, Decentralized State, Abstract Factory,  and Strategy pattern. The UML and other documentation is saved as a PDF in the repository under Documentation.
+
+
 READ ME
 
 To compile and execute the program please download and save the files onto your machine as originally named.
